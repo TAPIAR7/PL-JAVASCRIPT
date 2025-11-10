@@ -1,2 +1,2 @@
 # PL-JAVASCRIPT
-This repo is to stored javascript code.
+This repo is to store javascript code.
